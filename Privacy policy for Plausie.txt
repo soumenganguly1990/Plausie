@@ -1,0 +1,63 @@
+
+Privacy policy for
+Plausie android app
+Effective date: May 22, 2017
+
+The maker of Plausie respects people's privacy. Privacy is a big matter of concern in today's world. We are hereby explaining
+what kind of information we try to access from or store into your device.
+
+I.   Information collection and use
+We do not collect any kind of information from you. We do not need any information. What this app does is to enable you
+to save some notes, which may be a plain note or a drawing or a captured photo or maybe a voice recording. If you look
+carefully you will see that the app does not need any internet connectivity. And if the makers wanted to do anything with
+your data they would need them at their server. Not in your device. This is just a standalone application.
+
+II.  Do we track you by any means
+This is a big no. Just as the makers do not want to be tracked, they also do not want to track you. You are just going to use
+an app that saves notes and that also into a database or folder in your own device. There are just no needs or importance
+to save your location or where you are moving for them.
+
+III. Approach to secure your content
+We provide a simple facility of providing a numeric password which can be of 4 to 8 digits to protect your notes. The user
+will be able to change the password. Beyond this, there does not exist any other mechanisms like email or phone number
+verification, OTP or encryption etc.
+
+IV.  Can I contact Plausie makers
+Yes you can. You can send a mail to us directly at plausieapp@gmail.com.
+
+v.   Can Plausie makers contact me
+Only if you need an answer for anything regarding this app. We will never contact you unless you mail us anything.
+
+VI.  What kind of permissions are required and why
+We need to store the drawings you paint, the pictures you capture and the recordings you make into the device. So we
+need permission to write all these things to your storage device. We need the camera permission to make sure you can
+capture an image and save it as a pin. We need the read storage permission so as to read the stored information(here
+images, recordings or drawings) from your device storage.
+
+
+VII. Can contents be shared
+Yes, contents can be shared with others from this application. You can send the notes, drawings or pins with images
+to other people using some other content sharing/ sending applications. This application does not have direct communication
+facility between users and using the service for some other application is necessary in this regard.
+Recordings are not allowed to share from the application right now. However, you can share them from any other application
+by browsing to them.
+
+VIII.Where are the data stored
+Most of the data are stored in a local database. The files however are stored inside a folder named Plausie, that
+you can find inside of your storage card. The Plausie directory can contain separate subdirectories for storing
+recording files, drawing files and captured images. Simple notes are solely stored in the local database though.
+
+IX.  Is there any way I can lose my data
+Most of the data are stored in a local database. A local database means that the database resides in your device and
+is not hosted remotely on a server. Clearing data of the application will clear all data stored in it. However
+in that case the as a manual deletion of different types of notes did not take place, so you might still be able to
+get the drawings, images and recordings inside the Plausie directory in storage card.
+
+X.   Can users delete these Notes
+Yes, just as they can create a note whenever they want, they can also delete a note whenever they want. In case of
+drawings, recordings and pins the data stored in database and the file both will be deleted.
+
+XI.  Does this app uses any data stored in it
+We know that you might store something that is of utmost importance to you and the nature of those information may
+be of very sensitive in nature. We would like to reaffirm what we have said earlier. We do not store your content
+in any remote server. Your note contents or anything is not used for any gains, monetary or otherwise, for us.
