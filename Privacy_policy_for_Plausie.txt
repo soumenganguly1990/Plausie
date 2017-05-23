@@ -32,7 +32,6 @@ need permission to write all these things to your storage device. We need the ca
 capture an image and save it as a pin. We need the read storage permission so as to read the stored information(here
 images, recordings or drawings) from your device storage.
 
-
 VII. Can contents be shared
 Yes, contents can be shared with others from this application. You can send the notes, drawings or pins with images
 to other people using some other content sharing/ sending applications. This application does not have direct communication
