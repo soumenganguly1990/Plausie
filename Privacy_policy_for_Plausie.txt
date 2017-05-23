@@ -9,8 +9,8 @@ what kind of information we try to access from or store into your device.
 I.   Information collection and use
 We do not collect any kind of information from you. We do not need any information. What this app does is to enable you
 to save some notes, which may be a plain note or a drawing or a captured photo or maybe a voice recording. If you look
-carefully you will see that the app does not need any internet connectivity. And if the makers wanted to do anything with
-your data they would need them at their server. Not in your device. This is just a standalone application.
+carefully, you will see that the app does not need any internet connectivity. And if the makers wanted to do anything with
+your data they would need them at their server and not in your device. This is just a standalone application.
 
 II.  Do we track you by any means
 This is a big no. Just as the makers do not want to be tracked, they also do not want to track you. You are just going to use
@@ -18,14 +18,12 @@ an app that saves notes and that also into a database or folder in your own devi
 to save your location or where you are moving for them.
 
 III. Approach to secure your content
-We provide a simple facility of providing a numeric password which can be of 4 to 8 digits to protect your notes. The user
-will be able to change the password. Beyond this, there does not exist any other mechanisms like email or phone number
-verification, OTP or encryption etc.
+We provide a simple facility of providing a numeric password, for restricting access to the app, which can be of 4 to 8 digits to protect your notes. The user will be able to change the password. Beyond this, there does not exist any other mechanisms like email or phone number verification, OTP or encryption etc.
 
 IV.  Can I contact Plausie makers
 Yes you can. You can send a mail to us directly at plausieapp@gmail.com.
 
-v.   Can Plausie makers contact me
+V.   Can Plausie makers contact me
 Only if you need an answer for anything regarding this app. We will never contact you unless you mail us anything.
 
 VI.  What kind of permissions are required and why
@@ -61,3 +59,14 @@ XI.  Does this app uses any data stored in it
 We know that you might store something that is of utmost importance to you and the nature of those information may
 be of very sensitive in nature. We would like to reaffirm what we have said earlier. We do not store your content
 in any remote server. Your note contents or anything is not used for any gains, monetary or otherwise, for us.
+
+XII. Who created this app
+This android application was created by Soumen Ganguly. He can be reached at soumen.ganguly1990@gmail.com.
+
+XIII.How to contact support
+For any support related queries please feel free to drop an email at plausieapp@gmail.com.
+
+XIV. Which topics are covered under support
+Any issue relating to crashes, or abnormal behavior of the application, like images or drawings or recordings not being saved properly etc are covered under support. Remember we can not always provide a support without knowing any particular situation in which the app crashed or the app did not work as intended. So when mailing a query, please provide details regarding the circumstance and/ or context under which the unwanted situation occurred.
+
+End of privacy policy.
